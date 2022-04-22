@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dreamz-tech/static/css/main.4d5219a1.css",
+    "main.js": "/dreamz-tech/static/js/main.a07f6c81.js",
+    "static/js/787.61399ec3.chunk.js": "/dreamz-tech/static/js/787.61399ec3.chunk.js",
+    "index.html": "/dreamz-tech/index.html",
+    "main.4d5219a1.css.map": "/dreamz-tech/static/css/main.4d5219a1.css.map",
+    "main.a07f6c81.js.map": "/dreamz-tech/static/js/main.a07f6c81.js.map",
+    "787.61399ec3.chunk.js.map": "/dreamz-tech/static/js/787.61399ec3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d5219a1.css",
+    "static/js/main.a07f6c81.js"
+  ]
+}
